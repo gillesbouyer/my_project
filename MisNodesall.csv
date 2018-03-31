@@ -1,0 +1,149 @@
+nodesize,name,group,size
+20,Weight / Shipment,logistics metric,1
+20,Weight / PO,logistics metric,1
+20,Weight,logistics metric,1
+1,Weekly Order Target -Overall Summary,logistics report,1
+1,Weekly order target Back Efficiency Final,logistics report,1
+20,Vendor Lane Churn GFI,logistics metric,1
+1,USF Logistics BH Backhaul Performance Workbook,logistics report,1
+1,US FOOD cross Dock  - On time delivery,logistics report,1
+1,Unvouchered PO details (missing com[pletion date),logistics report,1
+1,under development,logistics report,1
+20,Truck Utilization,logistics metric,1
+1,test,logistics report,1
+1,Supply Chain Logistics Vendor PFV & SFV review,logistics report,1
+1,Supply Chain Logistics Logistics - PFV lane churn Trends,logistics report,1
+1,Supply Chain Logistics Logistics - PFV lane churn Summary,logistics report,1
+1,Supply Chain Logistics Logistics - PFV lane churn Analytics,logistics report,1
+20,Stops,logistics metric,1
+20,Spot Shipments,logistics metric,1
+20,Spot Shipments,logistics metric,1
+20,Spot Erosion,logistics metric,1
+1,Smartdock Utilization Report ,logistics report,1
+20,"SHIPMENT PO ""OD"" MILES",logistics metric,1
+1,shipment expedite tracker,logistics report,1
+20,SCPO Blueprint Compliance lanes,logistics metric,1
+1,SC Logistics USF Logistics Financial Performance Workbook,logistics report,1
+1,SC Logistics USF Logistics Cross Dock Performance Tracking,logistics report,1
+1,SC Logistics -Logistics Shipment cost change after completion analysis,logistics report,1
+1,SC logistics - Produce Shipments,logistics report,1
+1,SC Logistics - Logistics Unvouchered PO Details,logistics report,1
+1,SC Logistics - Logistics Conversion Reporting,logistics report,1
+1,SC Logistics - Logistics Blue Print Dashboard,logistics report,1
+1,SC Logistics - Finance Inventory In transit Report (Inbound to first course only),logistics report,1
+1,SC Logistics - Cross-Dock BluePrint Report,logistics report,1
+1,SC Logistics - CPU Impact Analysis,logistics report,1
+1,SC Logistics - Completed PO with Null Receipt date,logistics report,1
+1,SC Logistics - Backhaul Opportunity Routing Map Tool,logistics report,1
+1,Report / [ Workbook-View],logistics report,1
+1,Region Optimization Dashboard,logistics report,1
+20,Rate Mix Impact,logistics metric,1
+20,Rate Erosion,logistics metric,1
+1,Product Shipment,logistics report,1
+1,Produce Shipments,logistics report,1
+20,Pre-Fill upload acceptance % Revenue impact,logistics metric,1
+20,Pre-Fill upload acceptance % of Lanes,logistics metric,1
+20,PO's,logistics metric,1
+20,PO CALCULATED PALLETS,logistics metric,1
+20,percent Shpms to MinMax Revenue Target,logistics metric,1
+20,Percent Shpms to Min Max on Weight Cube Target,logistics metric,1
+20,Percent of Cases by Freight Type,logistics metric,1
+20,Outstanding claims by age (days open),logistics metric,1
+1,OTD service Improvement Report,logistics report,1
+1,OPS CDT spot rate trend report,logistics report,1
+1,OPS CDT Shipment with Zero cost or revenue,logistics report,1
+1,ops cdt negative shipment tracker,logistics report,1
+1,ops cdt Inbound logistics operation performance scorecard,logistics report,1
+1,Ops CDT Inbound Logistics - Negative Shipment Tracker,logistics report,1
+1,Ops CDT Inbound Logistics - Negative Savings Report,logistics report,1
+1,OPS CDT Carrier Rejection Dashboard,logistics report,1
+1,OPS CDT Carrier Dashboard / financial,logistics report,1
+1,OPS CDT Carrier Dashboard,logistics report,1
+1,OPS CDT cARRIER COST PERFORMANCE,logistics report,1
+1,OPS CDT Advanced rejection reporting,logistics report,1
+1,ops and cdt spot rate trend report,logistics report,1
+1,ops and cdt daily spot rejection report,logistics report,1
+1,ops & cdt negative shipment tracker,logistics report,1
+1,ops & cdt daily spot rejection reports,logistics report,1
+20,"On Time PO's (Orig Buyer Due Date, Appt Date, Appt Time)",logistics metric,1
+1,On time delivery performance report,logistics report,1
+20,number of Tracking Messages (From Carrier),logistics metric,1
+20,number of profiles through activation stage as percent and dollar impact,logistics metric,1
+1,Not in use,logistics report,1
+1,National Account Tracker,logistics report,1
+20,National Account,logistics metric,1
+1,Missing equipment report,logistics report,1
+20,Miles,logistics metric,1
+20,Lumper Invoice Accuracy,logistics metric,1
+20,Lumper Invoice Accuracy,logistics metric,1
+1,Logistics Weekly Performance Snapshot,logistics report,1
+1,Logistics Weekly Order Target - Vendor Summary,logistics report,1
+1,logistics weekly order target - shipment detail,logistics report,1
+1,Logistics Weekly Order Target,logistics report,1
+1,logistics PO cost calculation,logistics report,1
+1,Logistics Performance Trends,logistics report,1
+1,Logistics Performance Dashboard,logistics report,1
+1,Logistics Percent Managed Cases,logistics report,1
+1,Logistics Past Due Dashboard,logistics report,1
+1,Logistics Ops and ced Carrier Rejection Dashboard,logistics report,1
+1,logistics missing equipment report,logistics report,1
+20,Logistics Gross Margin,logistics metric,1
+1,Logistics gross freight income performance,logistics report,1
+20,Logistics Freight Revenue,logistics metric,1
+1,Logistics Freight Invoice AUDIT(TMS - PO Invoice Details),logistics report,1
+20,Logistics Freight Cost,logistics metric,1
+1,Logistics Field Support - Shipment detail,logistics report,1
+1,Logistics Field Support - B,logistics report,1
+1,Logistics Completed PO,logistics report,1
+1,Logistics Accessorial Summary,logistics report,1
+1,Logistics % Mgd Cases by All Service,logistics report,1
+1,Logistics - Destination Detention Report,logistics report,1
+1,Logistics - Advanced rejection reporting,logistics report,1
+20,Load Optimization,logistics metric,1
+20,"Late PO's (Orig Buyer Due Date, Appt Date, Appt Time)",logistics metric,1
+20,"Inbound OTD percentage to (Orig Buyer Due Date, Appt Date, Appt Time)",logistics metric,1
+1,Inbound logistics Negative savings report,logistics report,1
+1,In development,logistics report,1
+1,In development,logistics report,1
+20,"Gross Freight Income / Case (Rcvd, Mgd, Sold)",logistics metric,1
+20,Gross Freight Income,logistics metric,1
+1,Future negative spot report,logistics report,1
+1,Fuel Cost ,logistics report,1
+20,Freight Revenue / Mngd Case,logistics metric,1
+20,Freight Cost / Mngd Case,logistics metric,1
+1,Finance Inventory In-transit report,logistics report,1
+1,edi tracking messages dashboard,logistics report,1
+20,EDI % (Tracking Message %),logistics metric,1
+20,"DIRECT PO ""OD"" MILES",logistics metric,1
+1,Daily Pending Claims report,logistics report,1
+20,Cube / Shipment,logistics metric,1
+20,Cube ,logistics metric,1
+1,cross Dock  - Blue Print report,logistics report,1
+20,CPU % ( Mgd Cases / Rcvd Cases),logistics metric,1
+20,Conversions,logistics metric,1
+1,Completed PO w Null Receipt Date,logistics report,1
+20,Claims PL Impact,logistics metric,1
+20,Claims Opened Days (Aged),logistics metric,1
+20,Claims,logistics metric,1
+1,Category and Vendor Analysis,logistics report,1
+1,Cases Trend by Selected Service Type,logistics report,1
+20,Cases / Shipment,logistics metric,1
+20,Cases / PO,logistics metric,1
+20,"Cases (Rcvd, Mgd, Sold)",logistics metric,1
+20,Carrier Rejection,logistics metric,1
+20,Carrier Invoice Accuracy,logistics metric,1
+1,Carrier Dashboard,logistics report,1
+1,Carrier cost performance,logistics report,1
+20,Carrier Acceptance ,logistics metric,1
+1,BluePrint Dahboard,logistics report,1
+1,Backhaul project - Division Performance,logistics report,1
+1,Backhaul and Fleet Rejection Dashboard,logistics report,1
+20,3rd Party Freight Cost per Case,logistics metric,1
+20,3rd Party Cost per Miles,logistics metric,1
+1,2016 On time delivery performance report,logistics report,1
+1,1055 - Logistics PO Detail report,logistics report,1
+1,"1050 - Flt, BH & Hauling",logistics report,1
+1,1045 - Logistics Detailed Shipment Report,logistics report,1
+1,1040 - Logistics Future Shipment report,logistics report,1
+1,1035 - Logistics Completed PO,logistics report,1
+1, logistics supplemental lanes,logistics report,1
